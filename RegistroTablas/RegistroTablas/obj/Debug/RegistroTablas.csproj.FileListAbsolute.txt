@@ -1,0 +1,10 @@
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.csprojAssemblyReference.cache
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.Properties.Resources.resources
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.Registro.resources
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.csproj.GenerateResource.cache
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\bin\Debug\RegistroTablas.exe.config
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\bin\Debug\RegistroTablas.exe
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\bin\Debug\RegistroTablas.pdb
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.exe
+C:\Users\Cynthia\Desktop\RegistroTablas\RegistroTablas\obj\Debug\RegistroTablas.pdb
